@@ -9,6 +9,6 @@
 
 #### Contact :
 
-- [Télécharger mon CV] (PDF propre)
+- [Télécharger mon CV] 
 * [Mon LinkedIn]
 * [GitHub]
